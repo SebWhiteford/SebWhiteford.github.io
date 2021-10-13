@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a Postdoctoral Research Assistant in the Department of Psychology at Swansea University. My current work involves the application of novel analysis approaches to large online gambling datasets for a project funded by the ICRG. My primary interest is in computational modelling of psychological behaviours, particularly with choice-response time models, but with a developing interest in reinforcement learning approaches. I completed my PhD in Psychology at Swansea University in 2018, then spent a few years conducting research at the Department of Psychiatry in Cambridge University before returning to Swansea for my current research position.  
+Welcome! I am a Postdoctoral Research Assistant in the Department of Psychology at Swansea University. My current work involves the application of novel analysis approaches to large online gambling datasets for a project funded by the ICRG. My primary interest is in computational modelling of psychological behaviours, particularly with choice-response time models, but with a developing interest in reinforcement learning approaches. I completed my PhD in Psychology at Swansea University in 2018, then spent a few years conducting research in the Department of Psychiatry at Cambridge University before returning to Swansea for my current research position.  
 
 
 **Note that the current webpage is under active development, so many of the links and other pages are not yet functioning properly or refer to sections of the academicpages template which I used to generate the site.**
